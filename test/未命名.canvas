@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"25e48e67793e020e","x":-520,"y":-430,"width":440,"height":550,"type":"group","label":"分组一"},
+		{"id":"915c87f4a5a2eba9","x":200,"y":-380,"width":400,"height":400,"type":"file","file":"1.日记文件/欢迎.md"},
+		{"id":"2dfa3bf199b0d17c","x":-500,"y":-300,"width":400,"height":400,"type":"file","file":"1.日记文件/宇宙的开始.md"},
+		{"id":"afe2381feefe2aae","x":-400,"y":-410,"width":250,"height":60,"type":"text","text":"一些简单的内容"}
+	],
+	"edges":[
+		{"id":"19713ab1fd3d2ff7","fromNode":"2dfa3bf199b0d17c","fromSide":"right","toNode":"915c87f4a5a2eba9","toSide":"left","label":"补充"}
+	]
+}
