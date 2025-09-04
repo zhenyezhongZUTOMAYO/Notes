@@ -77,18 +77,6 @@
             "id": "357a05455bc7b5ba",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20250805102412.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250805102412"
-            }
-          },
-          {
-            "id": "7a3d512d3595a46b",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "3.知识文件/CK/Git.md",
@@ -114,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -187,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.知识文件/概率论/事件之间的运算.md",
+                "file": "3.知识文件/CK/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -197,7 +185,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "事件之间的运算 的反向链接列表"
+              "title": "Git 的反向链接列表"
             }
           },
           {
@@ -254,8 +242,7 @@
               "title": "calendar"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -274,10 +261,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "7a3d512d3595a46b",
+  "active": "357a05455bc7b5ba",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-09-04 14.04.02.excalidraw.md",
+    "Excalidraw/Drawing 2025-09-04 17.47.47.excalidraw.md",
     "3.知识文件/CK/Git.md",
+    "Pasted image 20250805102412.png",
+    "1.日记文件/2025-09-04 周四.md",
+    "Excalidraw/Drawing 2025-09-04 14.04.02.excalidraw.md",
     "Excalidraw",
     "Pasted image 20250904112559.png",
     "1.日记文件/2025-09-09 周二.md",
@@ -285,10 +275,8 @@
     "4.模板文件/知识模板.md",
     "4.模板文件/高数概念模板.md",
     "3.知识文件/CK",
-    "1.日记文件/2025-09-04 周四.md",
     "Pasted image 20250805102644.png",
     "Pasted image 20250807103858.png",
-    "Pasted image 20250805102412.png",
     "Pasted image 20250805102404.png",
     "Pasted image 20250902184357.png",
     "Pasted image 20250902184620.png",
@@ -313,7 +301,6 @@
     "1.日记文件/2025-08-27 周三.md",
     "1.日记文件/2025-09-01 周一.md",
     "3.知识文件/高数/换元法.md",
-    "3.知识文件/三角形圆弧扇形表示方式.md",
     "3.知识文件/概率论",
     "3.知识文件/线性代数",
     "未命名 1.base",
