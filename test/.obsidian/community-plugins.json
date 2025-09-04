@@ -2,5 +2,6 @@
   "calendar",
   "dataview",
   "editing-toolbar",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-excalidraw-plugin"
 ]
